@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md Rihan
-- 👀 I’m expert in full stack web deplopment with js
+- 👀 I’m an expert in full stack web development with js
 - 💞️ I’m looking to collaborate on web development 
-- 📫 If you wanna reach me plz mail to this address: mdrihannj@gmail.com
+- 📫 If you want to reach me plz mail to this address: rihannjna@gmail.com
 
 <!---
 rihan74426/rihan74426 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
